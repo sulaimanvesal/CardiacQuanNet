@@ -14,7 +14,7 @@ We demonstrate the efficacy of the proposed method on the MR sequence of 145 sub
 
 ### Installation
 
-Install TensorFlow/Keras from http://tensorflow.org with Python 3.6 and CUDA 10.0
+* Install TensorFlow/Keras from http://tensorflow.org with Python 3.6 and CUDA 10.0
 
 * NEW Add the LS-GAN objective to improve the performance
 
