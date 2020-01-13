@@ -30,3 +30,8 @@ Note: the single-level model works as expected, while the multi-level model requ
 git clone https://github.com/sulaimanvesal/CardiacQuanNet/
 cd CardiacQuanNet
 ```
+## Dataset
+* Download the LV-Quan 2018 Dataset put it in the data/GTA5 folder 
+* https://lvquan18.github.io/
+
+## Testing
