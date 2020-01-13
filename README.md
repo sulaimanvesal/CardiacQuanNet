@@ -12,7 +12,7 @@ We demonstrate the efficacy of the proposed method on the MR sequence of 145 sub
 
 ![framework](Lvgit.png)
 
-### Installation
+## Installation
 
 * Install TensorFlow/Keras from http://tensorflow.org with Python 3.6 and CUDA 10.0
 
@@ -24,8 +24,9 @@ PyTorch 0.4 with Python 3 and CUDA 8.0
 * Usage: replace the training and evaluation codes with the ones in the pytorch_0.4 folder
 Update: tensorboard is provided by adding --tensorboard in the command
 Note: the single-level model works as expected, while the multi-level model requires smaller weights, e.g., --lambda-adv-target1 0.00005 --lambda-adv-target2 0.0005. We will investigate this issue soon.
-Clone this repo
 
-* git clone https://github.com/sulaimanvesal/CardiacQuanNet/
-
-* cd CardiacQuanNet
+* Clone this repo
+```
+git clone https://github.com/sulaimanvesal/CardiacQuanNet/
+cd CardiacQuanNet
+```
