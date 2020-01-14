@@ -12,6 +12,10 @@ We demonstrate the efficacy of the proposed method on the MR sequence of 145 sub
 
 ![framework](Lvgit.png)
 
+## Activation maps learned by Spatio-temporal blocks
+
+![framework](images/temporal_r.png)
+
 ## Installation
 
 * Install TensorFlow/Keras from http://tensorflow.org with Python 3.6 and CUDA 10.0
