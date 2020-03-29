@@ -1,5 +1,4 @@
-# CardiacQuanNet
-## Synergistic Segmentation and Regression Learning for Cardiac MRI Left Ventricle Quantification Implementation
+# Synergistic Multitask Learning for Cardiac MRI Left Ventricle Quantification Implementation
 
 TensorFlow/Keras implementation of our method for left ventrical quantification and segmentation using multi-task 3D Spatio-temporal convolution. Based on this implementation, our result achieved state-of-the-art performance for LVquan 2018 Benchmark Dataset.
 
