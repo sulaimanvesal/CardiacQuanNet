@@ -1,6 +1,6 @@
 # Spatio-temporal Multi-task Learning for Cardiac MRI Left Ventricle Quantification
 
-TensorFlow/Keras implementation of our method for [Spatio-temporal Multi-task Learning for Cardiac MRI Left Ventricle Quantification](https://ieeexplore.ieee.org/abstract/document/9302580). Based on this implementation, our result achieved state-of-the-art performance for [LVquan 2018 Benchmark Dataset](https://lvquan18.github.io/).
+TensorFlow/Keras implementation of our method for [Spatio-temporal Multi-task Learning for Cardiac MRI Left Ventricle Quantification](https://ieeexplore.ieee.org/abstract/document/9302580). Based on this implementation, our result achieved state-of-the-art performance for [LVquan 2018 Benchmark Dataset](https://lvquan18.github.io/). This paper has been published at [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
 
 ### Contact: Sulaiman Vesal (sulaiman dot vesal at fau dot com)
 
