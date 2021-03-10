@@ -1,6 +1,6 @@
-# Synergistic Multitask Learning for Cardiac MRI Left Ventricle Quantification Implementation
+# Spatio-temporal Multi-task Learning for Cardiac MRI Left Ventricle Quantification
 
-TensorFlow/Keras implementation of our method for left ventrical quantification and segmentation using multi-task 3D Spatio-temporal convolution. Based on this implementation, our result achieved state-of-the-art performance for LVquan 2018 Benchmark Dataset.
+TensorFlow/Keras implementation of our method for [Spatio-temporal Multi-task Learning for Cardiac MRI Left Ventricle Quantification](https://ieeexplore.ieee.org/abstract/document/9302580). Based on this implementation, our result achieved state-of-the-art performance for [LVquan 2018 Benchmark Dataset](https://lvquan18.github.io/).
 
 Contact: Sulaiman Vesal (sulaiman dot vesal at fau dot com)
 
@@ -40,6 +40,7 @@ cd CardiacQuanNet
 ## Testing
 ---
 ## Citations
+Please consider citing the following papers in your publications if they help your research.
 ```
 @ARTICLE{9302580,
   author={S. {Vesal} and M. {Gu} and A. {Maier} and N. {Ravikumar}},
