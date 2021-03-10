@@ -38,3 +38,16 @@ cd CardiacQuanNet
 * https://lvquan18.github.io/
 
 ## Testing
+---
+## Citations
+```
+@ARTICLE{9302580,
+  author={S. {Vesal} and M. {Gu} and A. {Maier} and N. {Ravikumar}},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={Spatio-temporal Multi-task Learning for Cardiac MRI Left Ventricle Quantification}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JBHI.2020.3046449}}
+```
